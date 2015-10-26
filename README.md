@@ -3,6 +3,8 @@ WebService Ticketing Application with MySql Database
 
 The following is a ReadMe file for Ticketing Web Service application that uses MySql as a database to access the stored data. The TicketServer application is deployed as a web service.
 
+A sample run of the application is provided in the documentation provided.
+
 Running the application.
 
 1) Download and intsall the MySQL testbench onto a local machine.
